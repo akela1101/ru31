@@ -17,6 +17,7 @@ Makefile*
 *.Release
 *.Debug
 *.rc
+*.inc
 
 bin/
 build/
