@@ -1,6 +1,6 @@
 НЬ!
 ==
-[ahkscript](http://ahkscript.org/) с 31-буквенноь раскладкоь для windows.
+31-буквенная раскладка для windows выполенная с помошью [ahkscript](http://ahkscript.org/).
 
 Раскладка
 ---------
